@@ -1,13 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <ItemGroup>
-    <ProjectReference Include="..\krambles.core\krambles.core.csproj" />
     <ProjectReference Include="..\krambles.infrastructure\krambles.infrastructure.csproj" />
   </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>9fd872cfa15138c7691f4f880dadb3f9</UserSecretsId>
   </PropertyGroup>
-
-
 </Project>
