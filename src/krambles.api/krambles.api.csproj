@@ -4,7 +4,7 @@
     <ProjectReference Include="..\krambles.infrastructure\krambles.infrastructure.csproj" />
   </ItemGroup>
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
     <UserSecretsId>9fd872cfa15138c7691f4f880dadb3f9</UserSecretsId>
   </PropertyGroup>
 </Project>

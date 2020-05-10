@@ -9,7 +9,7 @@
         "type": "coreclr",
         "request": "launch",
         "preLaunchTask": "build",
-        "program": "${workspaceFolder}/krambles.api/bin/Debug/netcoreapp3.1/krambles.api.dll",
+        "program": "${workspaceFolder}/krambles.api/bin/Debug/netcoreapp5.0/krambles.api.dll",
         "args": [],
         "cwd": "${workspaceFolder}/krambles.api",
         "stopAtEntry": false,
